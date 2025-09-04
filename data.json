@@ -1,0 +1,242 @@
+[
+  {
+    "employee_id": "E001",
+    "name": "Alice",
+    "current_roles": [
+      {
+        "role_id": "R01",
+        "name": "Junior Developer"
+      },
+      {
+        "role_id": "R02",
+        "name": "Senior Developer"
+      }
+    ],
+    "assigned_courses": [
+      {
+        "course_id": "C101",
+        "title": "Python for Beginners"
+      },
+      {
+        "course_id": "C102",
+        "title": "Advanced Python"
+      },
+      {
+        "course_id": "S301",
+        "title": "Software Security Basics"
+      }
+    ]
+  },
+  {
+    "employee_id": "E002",
+    "name": "Bob",
+    "current_roles": [
+      {
+        "role_id": "R03",
+        "name": "Data Scientist"
+      },
+      {
+        "role_id": "R02",
+        "name": "Senior Developer"
+      }
+    ],
+    "assigned_courses": [
+      {
+        "course_id": "C101",
+        "title": "Python for Beginners"
+      },
+      {
+        "course_id": "C102",
+        "title": "Advanced Python"
+      },
+      {
+        "course_id": "D201",
+        "title": "Data Science Fundamentals"
+      },
+      {
+        "course_id": "S301",
+        "title": "Software Security Basics"
+      }
+    ]
+  },
+  {
+    "employee_id": "E003",
+    "name": "Akhilesh",
+    "current_roles": [
+      {
+        "role_id": "R03",
+        "name": "Data Scientist"
+      },
+      {
+        "role_id": "R01",
+        "name": "Junior Developer"
+      },
+      {
+        "role_id": "R02",
+        "name": "Senior Developer"
+      }
+    ],
+    "assigned_courses": [
+      {
+        "course_id": "C101",
+        "title": "Python for Beginners"
+      },
+      {
+        "course_id": "C102",
+        "title": "Advanced Python"
+      },
+      {
+        "course_id": "D201",
+        "title": "Data Science Fundamentals"
+      },
+      {
+        "course_id": "S301",
+        "title": "Software Security Basics"
+      }
+    ]
+  },
+  {
+    "employee_id": "E004",
+    "name": "Lakshmi",
+    "current_roles": [
+      {
+        "role_id": "R01",
+        "name": "Junior Developer"
+      },
+      {
+        "role_id": "R04",
+        "name": "Project Manager"
+      },
+      {
+        "role_id": "R02",
+        "name": "Senior Developer"
+      }
+    ],
+    "assigned_courses": [
+      {
+        "course_id": "C101",
+        "title": "Python for Beginners"
+      },
+      {
+        "course_id": "C102",
+        "title": "Advanced Python"
+      },
+      {
+        "course_id": "M401",
+        "title": "Agile Project Management"
+      },
+      {
+        "course_id": "S301",
+        "title": "Software Security Basics"
+      }
+    ]
+  },
+  {
+    "employee_id": "E005",
+    "name": "Akhila",
+    "current_roles": [
+      {
+        "role_id": "R04",
+        "name": "Project Manager"
+      },
+      {
+        "role_id": "R08",
+        "name": "UX/UI Designer"
+      }
+    ],
+    "assigned_courses": [
+      {
+        "course_id": "M401",
+        "title": "Agile Project Management"
+      },
+      {
+        "course_id": "UX201",
+        "title": "UI Design Principles"
+      },
+      {
+        "course_id": "UX202",
+        "title": "Prototyping with Figma"
+      }
+    ]
+  },
+  {
+    "employee_id": "E006",
+    "name": "Diksha",
+    "current_roles": [
+      {
+        "role_id": "R07",
+        "name": "Business Analyst"
+      },
+      {
+        "role_id": "R09",
+        "name": "Database Administrator"
+      },
+      {
+        "role_id": "R01",
+        "name": "Junior Developer"
+      },
+      {
+        "role_id": "R04",
+        "name": "Project Manager"
+      }
+    ],
+    "assigned_courses": [
+      {
+        "course_id": "BA101",
+        "title": "Business Analysis Fundamentals"
+      },
+      {
+        "course_id": "BA102",
+        "title": "Requirements Gathering"
+      },
+      {
+        "course_id": "C101",
+        "title": "Python for Beginners"
+      },
+      {
+        "course_id": "DB301",
+        "title": "SQL for DBAs"
+      },
+      {
+        "course_id": "DB302",
+        "title": "Database Performance Tuning"
+      },
+      {
+        "course_id": "M401",
+        "title": "Agile Project Management"
+      },
+      {
+        "course_id": "S301",
+        "title": "Software Security Basics"
+      }
+    ]
+  },
+  {
+    "employee_id": "E007",
+    "name": "Shaoni",
+    "current_roles": [
+      {
+        "role_id": "R07",
+        "name": "Business Analyst"
+      },
+      {
+        "role_id": "R04",
+        "name": "Project Manager"
+      }
+    ],
+    "assigned_courses": [
+      {
+        "course_id": "BA101",
+        "title": "Business Analysis Fundamentals"
+      },
+      {
+        "course_id": "BA102",
+        "title": "Requirements Gathering"
+      },
+      {
+        "course_id": "M401",
+        "title": "Agile Project Management"
+      }
+    ]
+  }
+]

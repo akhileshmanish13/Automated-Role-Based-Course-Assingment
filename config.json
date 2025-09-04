@@ -1,0 +1,41 @@
+{
+  "roles": [
+    { "role_id": "R01", "name": "Junior Developer" },
+    { "role_id": "R02", "name": "Senior Developer" },
+    { "role_id": "R03", "name": "Data Scientist" },
+    { "role_id": "R04", "name": "Project Manager" },
+    { "role_id": "R05", "name": "QA Engineer" },
+    { "role_id": "R06", "name": "DevOps Engineer" },
+    { "role_id": "R07", "name": "Business Analyst" },
+    { "role_id": "R08", "name": "UX/UI Designer" },
+    { "role_id": "R09", "name": "Database Administrator" }
+  ],
+  "courses": [
+    { "course_id": "C101", "title": "Python for Beginners" },
+    { "course_id": "C102", "title": "Advanced Python" },
+    { "course_id": "S301", "title": "Software Security Basics" },
+    { "course_id": "D201", "title": "Data Science Fundamentals" },
+    { "course_id": "M401", "title": "Agile Project Management" },
+    { "course_id": "Q501", "title": "Software Testing Fundamentals" },
+    { "course_id": "Q502", "title": "Automated Testing with Selenium" },
+    { "course_id": "O601", "title": "CI/CD with Jenkins" },
+    { "course_id": "O602", "title": "Cloud Infrastructure on AWS" },
+    { "course_id": "BA101", "title": "Business Analysis Fundamentals" },
+    { "course_id": "BA102", "title": "Requirements Gathering" },
+    { "course_id": "UX201", "title": "UI Design Principles" },
+    { "course_id": "UX202", "title": "Prototyping with Figma" },
+    { "course_id": "DB301", "title": "SQL for DBAs" },
+    { "course_id": "DB302", "title": "Database Performance Tuning" }
+  ],
+  "role_mappings": {
+    "R01": ["C101", "S301"],
+    "R02": ["C101", "C102", "S301"],
+    "R03": ["C101", "D201"],
+    "R04": ["M401"],
+    "R05": ["C101", "S301", "Q501", "Q502"],
+    "R06": ["C101", "S301", "O601", "O602"],
+    "R07": ["BA101", "BA102"],
+    "R08": ["UX201", "UX202"],
+    "R09": ["C101", "DB301", "DB302"]
+  }
+}
